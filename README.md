@@ -1,0 +1,6 @@
+# 2024第美化版,聚合支付易支付系统源码支付对接,可掉单设置
+
+演示账号密码,请联系客服索取<br>应广大客户需求：  <br>商户中心UI自适应全部移动设备，各类操作均可以在PC和移动设备上完成<br>显示通道类别 不再显示 入金通道详细名称<br>修复高级代理BUG<br>修复入金通道列表 费率显示BUG<br>其他小的细节不再一一列举！ <br>细节决定成败!<br>优质服务才是根本。<br>【温馨提示】代码已经几经N多个测试验证，虚拟空间不支持平台搭建的。<br>短信接口已对接，如需注册申请阿里的短信接口。代码已经能稳定运行；<br>PHP聚合支付带代理功能（附带DEMO和API文档）<br>【主要功能说明】<br> 1、支付类型可包含 H5、当面付、公众号、扫码、银联、快捷;<br> 2、结算类型包含 普通结算、代付结算、手动结算;<br> 3、限制 轮询、IP限制、金额、最小金额、当日总金额等;<br>4、完整的账单统计;<br> 5、文档分为在线文档和可下载文档压缩包;<br>【应用场景】作为第三方支付平台。该有的功能都有<br>【帐号类型】系统后台多类型管理员、商户代理、普通商户、接口用户；对用的板块后台都不一样相关的数据统计齐全有效。<br>免责申明：<br>   ①源码仅供休闲娱乐，研究学习<br>   ②请勿用于商业及非法用途<br>   ③如产生法律纠纷与本人无关<br>   ④您使用本源码起，将视为您已经接受本申明<br>购买一直<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/4VvL0" style="color: red;">https://mega-file.org/4VvL0</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
